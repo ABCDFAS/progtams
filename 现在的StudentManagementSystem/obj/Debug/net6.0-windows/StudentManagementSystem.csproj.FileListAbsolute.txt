@@ -60,6 +60,7 @@ C:\Users\教育何为\Desktop\现在的StudentManagementSystem\bin\Debug\net6.0-
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.AssemblyReference.cache
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Form1.resources
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.LoginForm.resources
+C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Properties.Resources.resources
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.csproj.GenerateResource.cache
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\教育何为\Desktop\现在的StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
